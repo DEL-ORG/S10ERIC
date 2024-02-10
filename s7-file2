@@ -25,4 +25,6 @@ spec:
       labels:
         app: sample-app
 
-maryam
+metadata:
+      labels:
+        app: sample-app
