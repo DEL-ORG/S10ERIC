@@ -21,6 +21,12 @@ spec:
       - db_data:/var/lib/mysql
     networks:
       - my_network
+     image: nginx:latest
+    ports:
+      - "8080:80"
+    volumes:
+      MYSQL_DATA
+      kind: Deployment 
       
 
 networks:
