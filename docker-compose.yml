@@ -47,3 +47,4 @@ spec:
       app: sample-app
   template:
         - containerPort: 80
+this is a nice document
