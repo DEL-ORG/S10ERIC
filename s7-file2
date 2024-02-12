@@ -8,20 +8,30 @@ spec:
     matchLabels:
       app: sample-app
   template:
-    metadata:
-      labels:
-        app:
-apiVersion: apps/v1
-kind: Deployment
-metadata:
-  name: sample-deployment
+fngngn nvn  
+vdf
+ggvcvdfdvvcv
+
+cv
+c
+gg
+
+dgdgdgdfgd
+
+g
+d
+g
+dgdfsfsss
+
+fdggdggggdsd
+
+
+
+sxffffgfgfs
+fsd
+sf
+d
+f
+
 spec:
-  replicas: 3
-  selector:
-    matchLabels:
-      app: sample-app
-  template:
-    metadata:
-      labels:
-        app: sample-app
 
