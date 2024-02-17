@@ -10,11 +10,4 @@ services:
       - volfrontend:/usr/src/app
     environment:
       - DATABASE_HOST=database
-      - DATABASE_PORT=5432
-    depends_on:
-      - database
-      - worker
-    ports:
-      - "3015:3000"
-    networks:
-      - thimnet
+
