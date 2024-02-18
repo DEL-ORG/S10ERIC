@@ -2,7 +2,7 @@ hhhhhhhhhh
 version: '3.8'
     image: nginx:latest
     ports:
-      - "8080:80"
+      - "8085:80"
     volumes:
       MYSQL_DATA
       kind: Deployment
