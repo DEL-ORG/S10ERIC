@@ -37,10 +37,5 @@ services:
       - "8007:80"
   nginx8:
 
-  nginx9:
-    image: nginx:latest
-    ports:
-      - "8009:80"
-
 eric configs:
 "eric kemvou"
