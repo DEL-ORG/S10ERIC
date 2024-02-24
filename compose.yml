@@ -36,9 +36,7 @@ services:
     ports:
       - "8007:80"
   nginx8:
-    image: nginx:latest
-    ports:
-      - "8008:80"
+
   nginx9:
     image: nginx:latest
     ports:
