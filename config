@@ -2,3 +2,14 @@
   "server": {
     "port": 8080,
   
+      app: sample-app
+  template:
+    metadata:
+      labels:
+        app: sample-app
+
+      app: sample-app
+  template:
+    metadata:
+      labels:
+        app: sample-app
