@@ -6,10 +6,4 @@
   "database": {
     "username": "admin",
     "password": "password123",
-    "dbname": "mydatabase"
-  },
-  "logging": {
-    "level": "debug",
-    "file": "/var/log/myapp.log"
-  }
-}
+
