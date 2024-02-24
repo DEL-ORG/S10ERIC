@@ -43,3 +43,6 @@ services:
     image: nginx:latest
     ports:
       - "8009:80"
+
+eric configs:
+"eric kemvou"
